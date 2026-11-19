@@ -1,0 +1,8 @@
+{
+  "client_id": "https://t-sato-kw.github.io/TableauMCP/gemini-enterprise-client.json",
+  "client_name": "Gemini Enterprise",
+  "redirect_uris": ["https://vertexaisearch.cloud.google.com/oauth-redirect"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
